@@ -22,7 +22,7 @@ nuc2 is using caddy to host development versions of [landingear.com] [1] and [ch
 
 <h2 id="responsive">Responsive</h2>
 ### Iframe
-* [stackoverflow] [3] 
+* [stackoverflow] [3]
 * [Fluid Width Video] [4]
 * [Creating Intrinsic Ratios for Video] [5]
 * [Responsive Google Maps] [6]
@@ -41,7 +41,7 @@ nuc2 is using caddy to host development versions of [landingear.com] [1] and [ch
   [9]: https://benmarshall.me/responsive-iframes/
   [10]: http://thenewcode.com/586/CSS-Fluid-Image-Techniques-for-Responsive-Site-Design
   [11]: http://thenewcode.com/359/Create-An-Auto-Centered-Responsive-Google-Map
-  [12]: 
+
 
 
 
@@ -51,3 +51,9 @@ nuc2 is using caddy to host development versions of [landingear.com] [1] and [ch
 
 
   [wikipedia "HTML element"](https://en.wikipedia.org/wiki/HTML_element "HTML element")
+
+<h2 id="hack">Hackintosh</h2>
+### Hack
+* [Clover Remove bios boot entries] [12]
+
+[12]: https://www.tonymacx86.com/threads/guide-remove-extra-clover-bios-boot-entries-prevent-further-problems.175274/
