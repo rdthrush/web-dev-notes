@@ -6,6 +6,7 @@ WIP
 *   [github](#github)
 *   [v1](#v1)
 *   [vscode](#vscode)
+*   [misc](#misc)
 
 <h2 id="over">Over</h2>
 ### over
@@ -76,4 +77,10 @@ Polyperf, ratings-element:
 Using Microsoft Visual Studio vscode.  [vscode tips/tricks] [200] links to a github repo.
 
   [200]: https://github.com/Microsoft/vscode-tips-and-tricks
+
+<h2 id="misc">Miscellaneous Stuff</h2>
+* [http echo] [300]
+
+  [300]: http://httpbin.org/
+
 
